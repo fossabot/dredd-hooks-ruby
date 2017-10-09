@@ -6,6 +6,7 @@ Ruby Hooks Handler for Dredd API Testing Framework
 [![Dependency Status](https://gemnasium.com/badges/github.com/apiaryio/dredd-hooks-ruby.svg)](https://gemnasium.com/github.com/apiaryio/dredd-hooks-ruby)
 [![Code Climate](https://codeclimate.com/github/apiaryio/dredd-hooks-ruby/badges/gpa.svg)](https://codeclimate.com/github/apiaryio/dredd-hooks-ruby)
 [![Inline Docs](http://inch-ci.org/github/apiaryio/dredd-hooks-ruby.svg?branch=master)](http://inch-ci.org/github/apiaryio/dredd-hooks-ruby)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fdredd-hooks-ruby.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fdredd-hooks-ruby?ref=badge_shield)
 
 Test your API with the [Dredd HTTP API testing framework](https://github.com/apiaryio/dredd) and write [hooks](http://dredd.readthedocs.org/en/latest/hooks/) in Ruby!
 
@@ -130,3 +131,6 @@ See [`LICENSE`][license].
 
   [license]: ./LICENSE.txt
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fdredd-hooks-ruby.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fdredd-hooks-ruby?ref=badge_large)
